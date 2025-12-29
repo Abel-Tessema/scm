@@ -48,6 +48,14 @@ export default function LoginPage() {
           <Button variant="contained" color="error" fullWidth sx={{ mt: 2 }}>
             Sign In
           </Button>
+          <Typography
+            variant="body2"
+            color="text.secondary"
+            align="center"
+            sx={{ mt: 5 }}
+          >
+            Copyright © SCM Project 2025.
+          </Typography>
         </Paper>
       </Box>
     </Container>
