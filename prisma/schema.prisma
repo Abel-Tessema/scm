@@ -26,4 +26,5 @@ model Module {
   code    String @unique
   name    String
   credits Int
+  description String? // Added per CR-02
 }
