@@ -45,7 +45,7 @@ export default function LoginPage() {
             fullWidth
             margin="normal"
           />
-          <Button variant="contained" color="primary" fullWidth sx={{ mt: 2 }}>
+          <Button variant="contained" color="error" fullWidth sx={{ mt: 2 }}>
             Sign In
           </Button>
         </Paper>
